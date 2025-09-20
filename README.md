@@ -26,11 +26,12 @@ A React-based chat application that provides real-time weather information using
 
 # Clone the repository
 git clone https://github.com/Shronghanate/weather-chat-app.git
+
 cd weather-chat-app
 
 # Install dependencies
 npm install
-# or
+ 
 yarn install
 
 #Technologies Used
