@@ -2,6 +2,8 @@
 
 A React-based chat application that provides real-time weather information using a conversational interface. Users can type questions about the weather, and the app responds using a backend API integration.
 
+LIVE_DEMO https://weather-chat-app-git-main-shronghanates-projects.vercel.app?_vercel_share=NGoutYP6amx02AD0xvtNWPKGRwWsp9nV 
+
 ---
 
 ## Features
