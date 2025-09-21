@@ -31,12 +31,12 @@ npm install
 ```
 
 # Setup Environment Variables
-1.Copy .env.example to .env.local (or .env)
+1. Copy .env.example to .env
 ```bash
-cp .env.example .env.local
+cp .env.example .env
 ```
 
-2.Open .env.local and replace the placeholder values with your actual credentials:
+2. Open .env and replace the placeholder values with your actual credentials:
 ```bash
 VITE_MASTRA_API_URL=your_api_url_here
 VITE_MASTRA_API_KEY=your_api_key_here
