@@ -52,10 +52,15 @@ npm run dev
 # Technologies Used
 
 React - Frontend UI
+
 JavaScript (ES6+) - Logic & state management
+
 Mastra API / Weather API - Weather data
+
 Tailwind CSS - Styling
+
 LocalStorage - Persistent chat history
+
 Vite - Development server & bundler
 
 
