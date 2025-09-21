@@ -22,7 +22,7 @@ LIVE_DEMO https://weather-chat-app-git-main-shronghanates-projects.vercel.app?_v
 # Clone the repository
 '''bash
 git clone https://github.com/Shronghanate/weather-chat-app.git
-cd weather-chat-app
+cd weather-chat-app'''
 
 # Install dependencies
 '''bash
