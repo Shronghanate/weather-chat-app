@@ -17,13 +17,6 @@ LIVE_DEMO https://weather-chat-app-git-main-shronghanates-projects.vercel.app?_v
 
 ---
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js (>=16.x)
-- npm or yarn
-
 ### Installation
 
 # Clone the repository
@@ -33,10 +26,24 @@ cd weather-chat-app
 
 # Install dependencies
 npm install
- 
-yarn install
 
-#Technologies Used
+# Setup Environment Variables
+1.Copy .env.example to .env.local (or .env)
+
+cp .env.example .env.local
+
+2.Open .env.local and replace the placeholder values with your actual credentials:
+
+VITE_MASTRA_API_URL=your_api_url_here
+VITE_MASTRA_API_KEY=your_api_key_here
+
+# Run the Development Server
+
+npm run dev
+
+
+
+# Technologies Used
 
 React - Frontend UI
 JavaScript (ES6+) - Logic & state management
